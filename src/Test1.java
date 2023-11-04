@@ -1,6 +1,6 @@
 public class Test1 {
     public void newA() {
-        System.out.println("1112323221");
+        System.out.println("테스트테스트 수정1");
     }
 
 
